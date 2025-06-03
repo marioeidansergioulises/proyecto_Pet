@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Acerca de Reciclado de Pet</title>
+
+<center><img src="imagenes proyecto pet/logo.avif"height=5%>
+<a href="index.html">
+<img src="imagenes proyecto pet/inc.png"height=5%></a>
+<a href="Acerca de Reciclado de Pet.html">
+<img src="imagenes proyecto pet/ARP.png"height=5%></a>
+<a href="Nuestro trabajo.html">
+<img src="imagenes proyecto pet/NT.png"height=5%></a>
+<a href="Porque hacemos esto.html">
+<img src="imagenes proyecto pet/PHE.png"height=5%></a>
+<a href="Para quien lo hacemos.html">
+<img src="imagenes proyecto pet/PQH.png"height=5%></a>
+<a href="Nuestros Proyectos.html">
+<img src="imagenes proyecto pet/NP.png"height=5%></a>
+</center>
+<center><table><tr><td>
+<center><h1>Diseña con Pet </h1></center>
+<center>
+<table border=0>
+<tr>
+<td colspan="2"><center><h1>Acerca de Reciclado de Pet</h1></center></td>
+</tr>
+<tr>
+<td><h3><p=>Productos y procesos de PET resistentes</p><p>al calor
+que recuperan y convierten PET</p><p> (botellas y envases
+de plástico comunes)</p><p> para su reutilización en
+nuevos productos.</p></h3></td>
+</tr>
+<tr>
+<td><h3><p>Incluye etapas como recolección, clasificación,</p><p>
+limpieza, trituración y procesamiento(mecánico
+o químico).</p><p> Beneficia al medio ambiente al
+reducir los residuos, ahorrar</p><p> recursos y reducir
+la contaminación, además de promover la
+economía circular</p></h3></td>
+</tr>
+</center>
+<img src="imagenes proyecto pet/gif1.gif"
+</tr></td></table></center>
+
+</html>
